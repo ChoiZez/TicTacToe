@@ -9,7 +9,7 @@ against each other over a network.
 1. __Clone the Repository:__
 
 ~~~
-git clone --recurse-submodules --remote-submodules git@github.com:ChoiZez/TicTacToe.git
+git clone --recurse-submodules --remote-submodules https://github.com/ChoiZez/TicTacToe.git
 ~~~
 
 2. __Build and install the FLTK Library__
